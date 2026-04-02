@@ -1,0 +1,1 @@
+"myenv/`n.venv/" | Out-File -FilePath .gitignore -Encoding utf8
